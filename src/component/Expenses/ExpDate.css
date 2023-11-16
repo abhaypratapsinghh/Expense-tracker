@@ -1,0 +1,8 @@
+.date{
+  width: 20%;
+  padding:0 1rem;
+  color:bisque;
+  border: solid 0.1rem ;
+  border-radius: 1rem;
+  background-color: rgb(29, 38, 38);
+}
