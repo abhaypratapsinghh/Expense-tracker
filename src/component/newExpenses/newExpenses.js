@@ -9,7 +9,7 @@ const newExpenses = (props) => {
 
     const expenseData = {
       ...enteredExpenseData,
-    }
+    } 
     props.onAddExpense(expenseData)
   };
   return (
